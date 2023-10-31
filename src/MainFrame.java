@@ -196,6 +196,9 @@ public class MainFrame extends javax.swing.JFrame {
         String strData=null;
         int iValue=0;
         
+        int num = 190;
+        
+        
         iValue=jSlider1.getValue();
         strData=Integer.toString(iValue);
         jTextField1.setText(strData);
