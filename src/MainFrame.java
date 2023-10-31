@@ -198,6 +198,8 @@ public class MainFrame extends javax.swing.JFrame {
         
         int num = 190;
         
+        int name = 150;
+        
         
         iValue=jSlider1.getValue();
         strData=Integer.toString(iValue);
